@@ -1,0 +1,1 @@
+<h2 style="color: green; text-align: center;">Cám ơn quý khách. Đơn hàng đã đặt thành công</h2>
